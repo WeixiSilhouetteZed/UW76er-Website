@@ -1,0 +1,52 @@
+.. CmmlDecoder documentation master file, created by
+   sphinx-quickstart on Sun Jun 14 22:53:15 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to CmmlDecoder's documentation!
+=======================================
+
++--------------------------+-------------------------------------------------------------------------------------------------+
+| **Author**               | Weixi (Bill) Zhuo                                                                               |
++--------------------------+-------------------------------------------------------------------------------------------------+
+| **Version**              | 1.0.0 of 2020/06/14                                                                             | 
++--------------------------+-------------------------------------------------------------------------------------------------+
+| **Dedication**           | To all student users of the CrowdMark website                                                   |
++--------------------------+-------------------------------------------------------------------------------------------------+
+| **Github**               | `<https://github.com/WeixiSilhouetteZed/CMML-Decoder>`_                                         |
++--------------------------+-------------------------------------------------------------------------------------------------+
+
+
+Introduction
+------------
+
+This is a wrapper class for the CrowdMark website to help students monitoring their assessments' marking processes.
+
+Software Requirements
+---------------------
+
+This ``CmmlDecoder`` class requires ``Pandas``, ``seleniumrequest``, and ``json`` libraries to run. All of them can be installed using
+``pip``. 
+
+Meta Data File
+--------------
+
+This class requires a ``JSON`` meta data file ``meta_data.json``.
+The shown json meta data below is subjected to changes.
+
+.. literalinclude:: ..\\meta_data.json
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   CmmlDecoder
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

@@ -1,0 +1,11 @@
+.. _CmmlDecoder-Class:
+
+CmmlDecoder Class
+=================
+
+Module Documentation
+^^^^^^^^^^^^^^^^^^^^
+
+.. automodule:: CmmlDecoder
+    :ignore-module-all:
+    :members:
