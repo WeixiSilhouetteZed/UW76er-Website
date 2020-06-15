@@ -13,9 +13,6 @@ Welcome to CmmlDecoder's documentation!
 +--------------------------+-------------------------------------------------------------------------------------------------+
 | **Dedication**           | To all student users of the CrowdMark website                                                   |
 +--------------------------+-------------------------------------------------------------------------------------------------+
-| **Github**               | `<https://github.com/WeixiSilhouetteZed/CMML-Decoder>`_                                         |
-+--------------------------+-------------------------------------------------------------------------------------------------+
-
 
 Introduction
 ------------
@@ -34,7 +31,7 @@ Meta Data File
 This class requires a ``JSON`` meta data file ``meta_data.json``.
 The shown json meta data below is subjected to changes.
 
-.. literalinclude:: ..\\meta_data.json
+.. literalinclude:: ..\meta_data.json
 
 Contents:
 
@@ -43,6 +40,8 @@ Contents:
    :caption: Contents:
 
    CmmlDecoder
+
+
 
 Indices and tables
 ==================

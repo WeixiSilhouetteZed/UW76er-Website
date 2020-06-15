@@ -1,4 +1,4 @@
-.. _CmmlDecoder-Class:
+.. _CmmlDecoder:
 
 CmmlDecoder Class
 =================
